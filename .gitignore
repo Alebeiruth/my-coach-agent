@@ -1,0 +1,33 @@
+# Credenciais e tokens — NUNCA subir
+credentials/
+*.json
+!storage/leetcode75.json
+
+# Ambiente virtual
+agent_univer_env/
+venv/
+env/
+.env
+
+# ChromaDB — índice vetorial local
+chroma_db/
+
+# Memória SQLite
+storage/memory.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+pymupdf
+langchain
+langchain-community
+langchain-text-splitters
+langchain-ollama
+sentence-transformers
+chromadb
+langgraph
+google-auth
+google-auth-oauthlib
+google-api-python-client

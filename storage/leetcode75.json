@@ -1,0 +1,606 @@
+{
+  "total": 75,
+  "exercises": [
+    {
+      "id": 1,
+      "titulo": "Merge Strings Alternately",
+      "topico": "Array / String",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": "",
+      "data_atualizacao": "2026-04-19"
+    },
+    {
+      "id": 2,
+      "titulo": "Greatest Common Divisor of Strings",
+      "topico": "Array / String",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 3,
+      "titulo": "Kids With the Greatest Number of Candies",
+      "topico": "Array / String",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 4,
+      "titulo": "Can Place Flowers",
+      "topico": "Array / String",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 5,
+      "titulo": "Reverse Vowels of a String",
+      "topico": "Array / String",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 6,
+      "titulo": "Reverse Words in a String",
+      "topico": "Array / String",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 7,
+      "titulo": "Product of Array Except Self",
+      "topico": "Array / String",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 8,
+      "titulo": "Increasing Triplet Subsequence",
+      "topico": "Array / String",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 9,
+      "titulo": "String Compres'ion",
+      "topico": "Array / String",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 10,
+      "titulo": "Move Zeroes",
+      "topico": "Two Pointers",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 11,
+      "titulo": "Is Subsequence",
+      "topico": "Two Pointers",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 12,
+      "titulo": "Container With Most Water",
+      "topico": "Two Pointers",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 13,
+      "titulo": "Max Number of K-Sum Pairs",
+      "topico": "Two Pointers",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 14,
+      "titulo": "Maximum Average Subarray I",
+      "topico": "Sliding Window",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 15,
+      "titulo": "Maximum Number of Vowels in a Substring of Given Length",
+      "topico": "Sliding Window",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 16,
+      "titulo": "Max Consecutive Ones III",
+      "topico": "Sliding Window",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 17,
+      "titulo": "Longest Subarray of 1's After Deleting One Element",
+      "topico": "Sliding Window",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 18,
+      "titulo": "Find the Highest Altitude",
+      "topico": "Prefix Sum",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 19,
+      "titulo": "Find Pivot Index",
+      "topico": "Prefix Sum",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 20,
+      "titulo": "Find the Difference of Two Arrays",
+      "topico": "Hash Map / Set",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 21,
+      "titulo": "Unique Number of Occurrences",
+      "topico": "Hash Map / Set",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 22,
+      "titulo": "Determine if Two Strings Are Close",
+      "topico": "Hash Map / Set",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 23,
+      "titulo": "Equal Row and Column Pairs",
+      "topico": "Hash Map / Set",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 24,
+      "titulo": "Removing Stars From a String",
+      "topico": "Stack",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 25,
+      "titulo": "Asteroid Collision",
+      "topico": "Stack",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 26,
+      "titulo": "Decode String",
+      "topico": "Stack",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 27,
+      "titulo": "Number of Recent Calls",
+      "topico": "Queue",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 28,
+      "titulo": "Dota2 Senate",
+      "topico": "Queue",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 29,
+      "titulo": "Delete the Middle Node of a Linked List",
+      "topico": "Linked List",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 30,
+      "titulo": "Odd Even Linked List",
+      "topico": "Linked List",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 31,
+      "titulo": "Reverse Linked List",
+      "topico": "Linked List",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 32,
+      "titulo": "Maximum Twin Sum of a Linked List",
+      "topico": "Linked List",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 33,
+      "titulo": "Maximum Depth of Binary Tree",
+      "topico": "Binary Tree - DFS",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 34,
+      "titulo": "Leaf-Similar Trees",
+      "topico": "Binary Tree - DFS",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 35,
+      "titulo": "Count Good Nodes in Binary Tree",
+      "topico": "Binary Tree - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 36,
+      "titulo": "Path Sum III",
+      "topico": "Binary Tree - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 37,
+      "titulo": "Longest ZigZag Path in a Binary Tree",
+      "topico": "Binary Tree - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 38,
+      "titulo": "Lowest Common Ancestor of a Binary Tree",
+      "topico": "Binary Tree - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 39,
+      "titulo": "Binary Tree Right Side View",
+      "topico": "Binary Tree - BFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 40,
+      "titulo": "Maximum Level Sum of a Binary Tree",
+      "topico": "Binary Tree - BFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 41,
+      "titulo": "Search in a Binary Search Tree",
+      "topico": "Binary Search Tree",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 42,
+      "titulo": "Delete Node in a BST",
+      "topico": "Binary Search Tree",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 43,
+      "titulo": "Keys and Rooms",
+      "topico": "Graphs - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 44,
+      "titulo": "Number of Provinces",
+      "topico": "Graphs - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 45,
+      "titulo": "Reorder Routes to Make All Paths Lead to the City Zero",
+      "topico": "Graphs - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 46,
+      "titulo": "Evaluate Division",
+      "topico": "Graphs - DFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 47,
+      "titulo": "Nearest Exit from Entrance in Maze",
+      "topico": "Graphs - BFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 48,
+      "titulo": "Rotting Oranges",
+      "topico": "Graphs - BFS",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 49,
+      "titulo": "Kth Largest Element in an Array",
+      "topico": "Heap / Priority Queue",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 50,
+      "titulo": "Smallest Number in Infinite Set",
+      "topico": "Heap / Priority Queue",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 51,
+      "titulo": "Maximum Subsequence Score",
+      "topico": "Heap / Priority Queue",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 52,
+      "titulo": "Total Cost to Hire K Workers",
+      "topico": "Heap / Priority Queue",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 53,
+      "titulo": "Guess Number Higher or Lower",
+      "topico": "Binary Search",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 54,
+      "titulo": "Successful Pairs of Spells and Potions",
+      "topico": "Binary Search",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 55,
+      "titulo": "Find Peak Element",
+      "topico": "Binary Search",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 56,
+      "titulo": "Koko Eating Bananas",
+      "topico": "Binary Search",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 57,
+      "titulo": "Letter Combinations of a Phone Number",
+      "topico": "Backtracking",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 58,
+      "titulo": "Combination Sum III",
+      "topico": "Backtracking",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 59,
+      "titulo": "N-th Tribonacci Number",
+      "topico": "DP - 1D",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 60,
+      "titulo": "Min Cost Climbing Stairs",
+      "topico": "DP - 1D",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 61,
+      "titulo": "House Robber",
+      "topico": "DP - 1D",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 62,
+      "titulo": "Domino and Tromino Tiling",
+      "topico": "DP - 1D",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 63,
+      "titulo": "Unique Paths",
+      "topico": "DP - Multidimensional",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 64,
+      "titulo": "Longest Common Subsequence",
+      "topico": "DP - Multidimensional",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 65,
+      "titulo": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "topico": "DP - Multidimensional",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 66,
+      "titulo": "Edit Distance",
+      "topico": "DP - Multidimensional",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 67,
+      "titulo": "Counting Bits",
+      "topico": "Bit Manipulation",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 68,
+      "titulo": "Single Number",
+      "topico": "Bit Manipulation",
+      "dificuldade": "easy",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 69,
+      "titulo": "Minimum Flips to Make a OR b Equal to c",
+      "topico": "Bit Manipulation",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 70,
+      "titulo": "Implement Trie (Prefix Tree)",
+      "topico": "Trie",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 71,
+      "titulo": "Search Suggestions System",
+      "topico": "Trie",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 72,
+      "titulo": "Non-overlapping Intervals",
+      "topico": "Intervals",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 73,
+      "titulo": "Minimum Number of Arrows to Burst Balloons",
+      "topico": "Intervals",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 74,
+      "titulo": "Daily Temperatures",
+      "topico": "Monotonic Stack",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    },
+    {
+      "id": 75,
+      "titulo": "Online Stock Span",
+      "topico": "Monotonic Stack",
+      "dificuldade": "medium",
+      "status": "pendente",
+      "observacoes": ""
+    }
+  ]
+}
